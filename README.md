@@ -7,7 +7,7 @@
 Topic     |  Url
 ----------|----------
 Read 01 |[here](https://raya33.github.io/Code-201-Reading-Notes/Read%2001/)
-Read 02 |
+Read 02 |[here](https://raya33.github.io/Code-201-Reading-Notes/Read%2002/class-02)
 Read 03 |
 Read 04 |
 Read 05 |
