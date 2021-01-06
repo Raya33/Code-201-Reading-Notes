@@ -11,7 +11,7 @@ Read 01 |[here](https://raya33.github.io/Code-201-Reading-Notes/Read%2001/)
 Read 02 |[here](https://raya33.github.io/Code-201-Reading-Notes/Read%2002/class-02)
 Read 03 |[here](https://raya33.github.io/Code-201-Reading-Notes/Read%2003/)
 Read 04 |[here](https://raya33.github.io/Code-201-Reading-Notes/Read%2004/)
-Read 05 |
+Read 05 |[here](https://raya33.github.io/Code-201-Reading-Notes/Read%2005/)
 Read 06 |
 Read 07 |
 Read 08 |
