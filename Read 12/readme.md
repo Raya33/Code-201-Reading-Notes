@@ -17,3 +17,5 @@
 * Using SVG paths
 # Applying styles and colors
 # Drawing text
+# Chart.js
+* It's easy to get started with Chart.js. All that's required is the script included in your page along with a single <canvas> node to render the chart.
